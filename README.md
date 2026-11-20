@@ -5,8 +5,7 @@ A Esp8266 Server that Serves a Website, from which you can start a PC via Wake o
 - A PC that is configured for Wake On Lan
 - ESP 8266 (I use an ESP8266-01 because of the size but others work completely fine too)<p align="left">
   <img src="Images/IMG_20261120_162438489.jpg" width="200" alt="ESP 8266">
-</p>
-- Arduino IDE or other flashing utility
+</p>- Arduino IDE or other flashing utility
 - ESP 8266 Board Packets (Arduino  "http://arduino.esp8266.com/stable/package_esp8266com_index.json"))
 
 
